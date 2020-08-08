@@ -499,12 +499,6 @@ div.box-team {
   color: var(--accent-color);
 }
 
-.icon-client {
-  width: 40px;
-  height: 52px;
-  /* fill: #afb1b8; */
-}
-
 /* Страница Портфолио */
 .list.button-galary {
   display: flex;
