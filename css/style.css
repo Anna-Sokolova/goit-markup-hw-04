@@ -555,14 +555,13 @@ div.box-team {
   margin-bottom: 0;
 }
 
-.project-card {
-  text-decoration: none;
-}
-
-.item-galary:hover,
-.item-galary:focus {
+.project-card:hover .card,
+.project-card:focus .card {
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
     1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+.project-card {
+  text-decoration: none;
 }
 
 div.project-caption {
